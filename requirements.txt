@@ -29,5 +29,5 @@ tzlocal==1.2.2
 urllib3==1.15.1
 virtualenv==15.0.2
 Werkzeug==0.11.10
-xattr==0.6.4
+#xattr==0.6.4
 zope.interface==4.1.1

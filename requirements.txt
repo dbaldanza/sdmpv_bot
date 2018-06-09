@@ -13,7 +13,7 @@ requests==0.11.1
 
 # Or you need not a pip package, @'...' specifies git branch
 #git+https://github.com/Kylmakalle/pyTelegramBotAPI.git@feature-BotAPIV3
-git+https://github.com/dbaldanza/sdmpv_bot.git@master
+#git+https://github.com/dbaldanza/sdmpv_bot.git@master
 
 # Or you have .zip library
 #https://site.org/files/package.zip

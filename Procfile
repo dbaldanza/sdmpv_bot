@@ -1,1 +1,1 @@
-bot: python3 sdmpv_bot.py
+bot: python sdmpv_bot.py

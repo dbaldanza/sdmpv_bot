@@ -1,19 +1,33 @@
 # List of required packages (Dependencies)
-redis
-
-# If you need to specify a version
-#Flask==0.8
-#Jinja2==2.6
-#Werkzeug==0.8.3
-#certifi==0.0.8
-#chardet==1.0.1
-#distribute==0.6.24
-#gunicorn==0.14.2
-#requests==0.11.1
-
-# Or you need not a pip package, @'...' specifies git branch
-#git+https://github.com/Kylmakalle/pyTelegramBotAPI.git@feature-BotAPIV3
-#git+https://github.com/dbaldanza/sdmpv_bot.git@master
-
-# Or you have .zip library
-#https://site.org/files/package.zip
+altgraph==0.10.2
+apiai==1.0.2
+APScheduler==2.1.2
+bdist-mpkg==0.5.0
+click==6.6
+Django==1.9.7
+Flask==0.11.1
+funcsigs==1.0.2
+future==0.15.2
+futures==3.0.5
+gunicorn==19.6.0
+itsdangerous==0.24
+Jinja2==2.8
+macholib==1.5.1
+MarkupSafe==0.23
+modulegraph==0.10.4
+py2app==0.7.3
+pyOpenSSL==0.13.1
+pyparsing==2.0.1
+python-dateutil==1.5
+python-telegram-bot==4.2.1
+pytz==2013.7
+redis==2.10.5
+schedule==0.3.2
+six==1.4.1
+telepot==8.1
+tzlocal==1.2.2
+urllib3==1.15.1
+virtualenv==15.0.2
+Werkzeug==0.11.10
+xattr==0.6.4
+zope.interface==4.1.1
